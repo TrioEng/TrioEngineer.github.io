@@ -275,6 +275,7 @@ table, th, td, .tablecenter {
   
   .image figcaption{
   position: absolute;
+  background-color:#ddd
   top: 50%;
   bottom: 50%;
   left: 20%;
