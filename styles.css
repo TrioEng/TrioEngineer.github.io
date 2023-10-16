@@ -193,7 +193,7 @@ table, th, td, .tablecenter {
   }
 
 .box .imagetext{
-  position: auto;
+  position: absolute;
   z-index: 999;
   margin: 0 auto;
   left: 0;
