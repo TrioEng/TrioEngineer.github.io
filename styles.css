@@ -195,9 +195,7 @@ table, th, td, .tablecenter {
 .box .imagetext{
   position: absolute;
   z-index: 999;
-  margin: 0 auto;
-  left: auto;
-  right: auto;    
+  margin: 0 auto;   
   padding-left: 5pt;    
   text-align: left;
   top: 40%; /* Adjust this value to move the positioned div up and down */
