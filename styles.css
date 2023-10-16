@@ -40,7 +40,7 @@ h2 {
 
 p {
 
-  font: Lora, Comfortaa, Impact, Raleway, Verdana, Geneva, Arial, Helvetica,;
+  font: Lora, Comfortaa, Impact, Raleway, Verdana, Geneva, Arial, Helvetica;
 
 
 }
@@ -171,10 +171,10 @@ table, th, td, .tablecenter {
 .logo {
   float: left;
   vertical-align: top;
-  width: 50px;
-  height: 50px;
-  margin-right: 20px;
-  margin-top: 15px;    /* if you want it vertically middle of the navbar. */
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+  margin-top: 0px;    /* if you want it vertically middle of the navbar. */
 }
 .navigation-bar > a {
   float: right;
