@@ -280,3 +280,22 @@ table, th, td, .tablecenter {
   left: 20%;
   width: 60%;
   }
+
+ 
+    .box{
+        position: relative;
+        display: inline-block; /* Make the width of box same as image */
+    }
+    .box .text{
+        position: absolute;
+        z-index: 999;
+        margin: 0 auto;
+        left: 0;
+        right: 0;        
+        text-align: left;
+        top: 40%; /* Adjust this value to move the positioned div up and down */
+        background: rgba(255, 255, 255, 0.8);
+        font-family: 'Julius Sans One';
+        color: #0a0000;
+        width: 30%; /* Set the width of the positioned div */
+    }
