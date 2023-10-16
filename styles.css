@@ -284,7 +284,6 @@ table, th, td, .tablecenter {
  
 .box{
   position: relative;
-  left: 100px;
   display: inline-block; /* Make the width of box same as image */
   }
 
@@ -293,7 +292,7 @@ table, th, td, .tablecenter {
   z-index: 999;
   margin: 0 auto;
   left: 0;
-  right: 0;        
+  right: 1;        
   text-align: center;
   top: 40%; /* Adjust this value to move the positioned div up and down */
   background: rgba(255, 255, 255, 0.8);
