@@ -178,7 +178,6 @@ table, th, td, .tablecenter {
 }
 .navigation-bar > a {
   float: right;
-  display: inline-block;
   font-family: 'Bitter';
   vertical-align: top;
   margin-right: 20px;
