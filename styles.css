@@ -31,8 +31,10 @@ h1 {
 
 h2 {
 
-  font:'Julius Sans One', Calistoga, Comfortaa, Impact, Raleway, Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-family:'Julius Sans One', Calistoga, Comfortaa, Impact, Raleway, Verdana, Geneva, Arial, Helvetica, sans-serif;
 
+  font-size: 1.5em;
+  
   line-height: 20pt;
 
 }
