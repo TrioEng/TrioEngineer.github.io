@@ -2,7 +2,7 @@ body {
 
   font-size: 10pt;
 
-  font-family: Lora, Calistoga, Comfortaa, Raleway, Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-family: Lora, Calistoga, Comfortaa, Raleway, Verdana, Geneva, Arial, Helvetica, Bitter sans-serif;
 
   color: black;
 
@@ -177,6 +177,7 @@ table, th, td, .tablecenter {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: Bitter;
   font-size: 17px;
 }
 
@@ -282,7 +283,7 @@ table, th, td, .tablecenter {
  
 .box{
   position: relative;
-  display: inline-block; /* Make the width of box same as image */
+  display: inline-flex; /* Make the width of box same as image */
   }
 
 .box .imagetext{
