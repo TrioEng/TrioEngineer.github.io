@@ -296,6 +296,7 @@ table, th, td, .tablecenter {
   top: 40%; /* Adjust this value to move the positioned div up and down */
   background: rgba(255, 255, 255, 0.8);
   font-family: 'Julius Sans One';
+  font-size: 1vw;
   color: #0a0000;
   width: 30%; /* Set the width of the positioned div */
     }
