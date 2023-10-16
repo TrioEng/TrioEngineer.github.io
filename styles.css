@@ -128,14 +128,6 @@ table, th, td, .tablecenter {
   padding: 10px;
 }
 
-.parallax {
-  background-image: url('/images/LCV1.jpg');
-  height: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 
 /* Style the tab */
@@ -176,14 +168,14 @@ table, th, td, .tablecenter {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #f8f3f3;
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
-  color: #f2f2f2;
+  float: right;
+  color: #070000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -192,12 +184,12 @@ table, th, td, .tablecenter {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #1f2b1e;
+  color: rgb(255, 255, 255);
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+/*.topnav a.active {
   background-color: #04AA6D;
   color: white;
 }
