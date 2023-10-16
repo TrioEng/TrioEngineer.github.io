@@ -2,7 +2,7 @@ body {
 
   font-size: 10pt;
 
-  font-family: Lora, Calistoga, Comfortaa, Raleway, Verdana, Geneva, Arial, Helvetica, Bitter sans-serif;
+  font-family: 'Bitter', Lora, Calistoga, Comfortaa, Raleway, Verdana, Geneva, Arial, Helvetica, sans-serif;
 
   color: black;
 
@@ -179,6 +179,7 @@ table, th, td, .tablecenter {
 }
 .navigation-bar > a {
   display: inline-block;
+  font-family: 'Bitter';
   vertical-align: top;
   margin-right: 20px;
   height: 80px;        /* if you want it to take the full height of the bar */
