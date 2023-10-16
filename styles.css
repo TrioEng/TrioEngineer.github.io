@@ -293,7 +293,7 @@ table, th, td, .tablecenter {
   margin: 0 auto;
   left: 0;
   right: 0;        
-  text-align: left;
+  text-align: center;
   top: 40%; /* Adjust this value to move the positioned div up and down */
   background: rgba(255, 255, 255, 0.8);
   font-family: 'Julius Sans One';
