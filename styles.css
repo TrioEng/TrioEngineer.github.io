@@ -169,7 +169,7 @@ table, th, td, .tablecenter {
   background-color: rgb(247, 246, 246); /* change to desired color */
 }
 .logo {
-  display: inline-block;
+  float: left;
   vertical-align: top;
   width: 50px;
   height: 50px;
@@ -177,6 +177,7 @@ table, th, td, .tablecenter {
   margin-top: 15px;    /* if you want it vertically middle of the navbar. */
 }
 .navigation-bar > a {
+  float: right;
   display: inline-block;
   font-family: 'Bitter';
   vertical-align: top;
