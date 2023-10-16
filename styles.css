@@ -67,8 +67,6 @@ a:link, a:visited {
 
   font-size: large;
 
-  font-weight: bolder;
-
   color: #00218d;
 
 }
@@ -167,6 +165,7 @@ table, th, td, .tablecenter {
 .navigation-bar {
   width: 100%;  /* i'm assuming full width */
   height: 80px; /* change it to desired width */
+  float: right;
   background-color: rgb(247, 246, 246); /* change to desired color */
 }
 .logo {
