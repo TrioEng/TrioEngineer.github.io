@@ -284,6 +284,7 @@ table, th, td, .tablecenter {
  
 .box{
   position: relative;
+  left: 100px;
   display: inline-block; /* Make the width of box same as image */
   }
 
