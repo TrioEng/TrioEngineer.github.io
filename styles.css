@@ -281,10 +281,10 @@ table, th, td, .tablecenter {
 /* Bottom right text */
 .text-block {
   position: absolute;
-  bottom: 20px;
-  right: 20px;
-  background-color: black;
-  color: white;
+  bottom: 140px;
+  left: 50px;
+  background-color: rgb(255, 255, 255);
+  color: black;
   padding-left: 20px;
   padding-right: 20px;
 }
