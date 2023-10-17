@@ -154,10 +154,10 @@ div.footer {
 }
 
 .navigation-bar {
-  width: 100%;  /* i'm assuming full width */
-  height: 80px; /* change it to desired width */
+  width: 100%;  
+  height: 80px; 
   float: right;
-  background-color: rgb(247, 246, 246); /* change to desired color */
+  background-color: rgb(255, 255, 255); 
 }
 .logo {
   float: left;
