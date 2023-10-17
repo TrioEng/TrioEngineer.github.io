@@ -176,28 +176,6 @@ div.footer {
   line-height: 80px;    /* if you want it vertically middle of the navbar */
 }
 
-
-
-.box{
-  position: relative;
-  display: inline-flex; /* Make the width of box same as image */
-  }
-
-.box .imagetext{
-  position: absolute;
-  z-index: 999;
-  margin: 0 auto;   
-  padding-left: 5pt;    
-  text-align: left;
-  top: 40%; /* Adjust this value to move the positioned div up and down */
-  background: rgba(255, 255, 255, 0.8);
-  font-family: 'Julius Sans One';
-  font-size: 1vw;
-  color: #0a0000;
-  width: 30%; /* Set the width of the positioned div */
-    }
-
-
 /*new bannertext test below*/
 
 .image-container {
@@ -221,6 +199,20 @@ div.footer {
   padding: 10px 20px;
   font-family: 'Julius Sans One'; 
   font-size: 3vw; 
+  text-align: left;
+  line-height: normal;
+}
+
+.overlay-subtext {
+  position: absolute;
+  top: 50%; 
+  left: 20%; 
+  transform: translate(-50%, -50%); 
+  background-color: #ffffff; 
+  color: #000000; 
+  padding: 10px 20px;
+  font-family: 'Bitter'; 
+  font-size: 1.5vw; 
   text-align: left;
   line-height: normal;
 }
