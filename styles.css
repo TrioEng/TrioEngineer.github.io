@@ -214,13 +214,13 @@ div.footer {
 .overlay-text {
   position: absolute;
   top: 50%; 
-  left: 30%; 
+  left: 20%; 
   transform: translate(-50%, -50%); 
   background-color: #ffffff; 
   color: #000000; 
   padding: 10px 20px;
   font-family: 'Julius Sans One'; 
   font-size: 3vw; 
-  text-align: center;
+  text-align: left;
   line-height: normal;
 }
