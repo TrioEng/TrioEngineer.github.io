@@ -202,17 +202,3 @@ div.footer {
   text-align: left;
   line-height: normal;
 }
-
-.overlay-subtext {
-  position: absolute;
-  top: 50%; 
-  left: 20%; 
-  transform: translate(-50%, -50%); 
-  background-color: #ffffff; 
-  color: #000000; 
-  padding: 10px 20px;
-  font-family: 'Bitter'; 
-  font-size: 1vw; 
-  text-align: left;
-  line-height: normal;
-}
